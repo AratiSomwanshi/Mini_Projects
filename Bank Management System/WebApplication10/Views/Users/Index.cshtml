@@ -1,0 +1,224 @@
+﻿@model IEnumerable<WebApplication10.Models.User>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<div class="container text-center">
+    <div class="row">
+        <div class="col">
+            
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Name)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.DateOfBirth)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Phone)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Email)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Address)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Username)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Password)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Branch)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.AccountType)
+                            </th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Name)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.DateOfBirth)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Phone)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Email)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Address)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Username)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Password)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Branch)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.AccountType)
+                                </td>
+                                <td>
+
+                                    <a asp-action="Delete" asp-route-id="@item.UserId">Delete</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </>
+            </div>
+        </div>
+
+
+
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+<div class="container text-center">
+    <div class="row">
+        <div class="col">
+            <div class="card" style="width: 18rem;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7e7NdY8hH8Z-wBnu-bNdC2nq90QMDi6UpXA&s" class="card-img-top" alt="...">
+                <div class="card-body">
+                  
+                    <a class="nav-link" asp-area="" asp-controller="Transactions" asp-action="Index">Transactions</a>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card" style="width: 18rem;">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5q_nUkn5mpN8csFZKHYTOjsVkC1JQyeDZGg&s" class="card-img-top" alt="...">
+                <div class="card-body">
+              
+                    <a class="nav-link" asp-area="" asp-controller="Accounts" asp-action="Index">Accounts</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="container text-center">
+    <div class="row">
+        <div class="col">
+            <div class="card" style="width: 18rem;">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5q_nUkn5mpN8csFZKHYTOjsVkC1JQyeDZGg&s" class="card-img-top" alt="...">
+                <div class="card-body">
+                   
+                   
+                    <a class="nav-link" asp-area="" asp-controller="Loans" asp-action="Index">Loans</a>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card" style="width: 18rem;">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtCXPDMXefbQ6Lj0Xs1tDIFzht2mOYiApahA&s" class="card-img-top" alt="...">
+                <div class="card-body">
+                
+                    <a class="nav-link" asp-area="" asp-controller="Users" asp-action="ChangePassword">changePassword</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<div class="container text-center">
+    <div class="row">
+        <div class="col">
+            <div class="card" style="width: 18rem;">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDfh_ryGySCw2Oh3iKfZ9bzKuifPrs0ZwNjg&s" class="card-img-top" alt="...">
+                <div class="card-body">
+                
+                    <a class="nav-link" asp-area="" asp-controller="Users" asp-action="Delete">Logout</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <style>
+        /* Background styles */
+        body {
+            background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0leO2uccocbNLmlGje86OFP7dUhn0TNB8Vg&s'); /* Replace with your image URL */
+            background-size: cover; /* Cover ensures the entire background is covered */
+            background-repeat: no-repeat; /* Prevents background from repeating */
+            height: 100%; /* Ensures full height coverage */
+            margin: 0; /* Removes default margin */
+            font-family: Arial, sans-serif; /* Set your desired font */
+        }
+
+        /* Page container styles */
+        .container {
+            margin-top: 30px; /* Adjust margin as needed */
+            color: #333; /* Default text color */
+        }
+
+        /* Table styles */
+        .table {
+            width: 100%;
+            background-color: #fff; /* Table background color */
+            border-collapse: collapse;
+            border: 1px solid #ccc; /* Table border */
+        }
+
+            .table th,
+            .table td {
+                padding: 8px; /* Cell padding */
+                text-align: left; /* Cell text alignment */
+                border: 1px solid #ccc; /* Cell border */
+            }
+
+        /* Card styles */
+        .card {
+            margin-bottom: 20px; /* Space between cards */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Card shadow */
+        }
+
+        .card-img-top {
+            width: 100%; /* Card image width */
+            height: auto; /* Maintain aspect ratio */
+        }
+
+        .card-body {
+            padding: 10px; /* Padding inside card body */
+        }
+
+            /* Links inside cards */
+            .card-body a {
+                color: #007bff; /* Link color */
+                text-decoration: none; /* Remove underline */
+                font-weight: bold; /* Bold font for links */
+            }
+
+                .card-body a:hover {
+                    text-decoration: underline; /* Underline on hover */
+                }
+    </style>

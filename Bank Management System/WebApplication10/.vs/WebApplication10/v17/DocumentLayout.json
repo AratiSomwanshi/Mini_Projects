@@ -1,0 +1,703 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\loans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\loans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\loans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\loans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\loans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\loans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\loans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\loans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\users\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\users\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\users\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\users\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\transactions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\transactions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\migrations\\bankingcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:migrations\\bankingcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\migrations\\20240709081626_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:migrations\\20240709081626_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\admins\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\admins\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\admins\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\admins\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\models\\bankingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:models\\bankingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\models\\adminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:models\\adminrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|c:\\users\\pushpak\\desktop\\webapplication10\\webapplication10\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DB65C6-9A34-49ED-955B-9E2A2BC92700}|WebApplication10.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Loans\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loans\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Loans\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Loans\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T22:10:33.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Loans\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loans\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Loans\\Details.cshtml",
+              "RelativeToolTip": "Views\\Loans\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T22:10:29.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Loans\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loans\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Loans\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Loans\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T22:10:27.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Loans\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loans\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Loans\\Create.cshtml",
+              "RelativeToolTip": "Views\\Loans\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T22:10:25.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "Controllers\\TransactionsController.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAwwIkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:57:45.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:11:15.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\StartUp.cs",
+              "RelativeDocumentMoniker": "StartUp.cs",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\StartUp.cs",
+              "RelativeToolTip": "StartUp.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:11:09.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T22:10:09.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Users\\Delete.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T22:09:18.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "Views\\Users\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T22:09:15.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T22:06:04.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T22:09:12.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T22:08:44.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T22:08:39.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Users\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Register.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Users\\Register.cshtml",
+              "RelativeToolTip": "Views\\Users\\Register.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T22:08:22.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Users\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Users\\SignIn.cshtml",
+              "RelativeToolTip": "Views\\Users\\SignIn.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T22:08:33.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Users\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Users\\Logout.cshtml",
+              "RelativeToolTip": "Views\\Users\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T22:08:16.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Transactions\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transactions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Transactions\\Index.cshtml",
+              "RelativeToolTip": "Views\\Transactions\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T22:03:14.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Transactions\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transactions\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Transactions\\Details.cshtml",
+              "RelativeToolTip": "Views\\Transactions\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T22:02:01.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BankingContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Migrations\\BankingContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\BankingContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Migrations\\BankingContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\BankingContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:01:06.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240709081626_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Migrations\\20240709081626_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240709081626_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Migrations\\20240709081626_InitialCreate.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240709081626_InitialCreate.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:00:40.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:58:25.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:57:42.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Admins\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admins\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Admins\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Admins\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T21:58:54.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Admins\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admins\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Admins\\Create.cshtml",
+              "RelativeToolTip": "Views\\Admins\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T21:58:52.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Accounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Accounts\\Index.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T21:58:48.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoansController.cs",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Controllers\\LoansController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoansController.cs",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Controllers\\LoansController.cs",
+              "RelativeToolTip": "Controllers\\LoansController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAIAwwDUAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:57:44.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Accounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Accounts\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T21:58:45.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Accounts\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Accounts\\Details.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T21:58:42.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Accounts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Accounts\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T21:58:40.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Accounts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Views\\Accounts\\Create.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T21:58:34.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "Controllers\\AdminsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:57:39.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BankingContext.cs",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Models\\BankingContext.cs",
+              "RelativeDocumentMoniker": "Models\\BankingContext.cs",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Models\\BankingContext.cs",
+              "RelativeToolTip": "Models\\BankingContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:56:21.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:57:33.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Models\\UserRole.cs",
+              "RelativeToolTip": "Models\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:57:15.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:56:51.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:56:44.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AdminRole.cs",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Models\\AdminRole.cs",
+              "RelativeDocumentMoniker": "Models\\AdminRole.cs",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Models\\AdminRole.cs",
+              "RelativeToolTip": "Models\\AdminRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:56:10.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:54:47.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Models\\Loan.cs",
+              "RelativeToolTip": "Models\\Loan.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:51:34.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:51:01.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Users\\pushpak\\Desktop\\WebApplication10\\WebApplication10\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:51:41.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

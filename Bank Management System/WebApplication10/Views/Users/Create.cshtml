@@ -1,0 +1,51 @@
+﻿@model WebApplication10.Models.User
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1 class="text-center">Create User</h1>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Create" class="needs-validation" novalidate>
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="mb-3">
+                    <label asp-for="Username" class="form-label">Username</label>
+                    <input asp-for="Username" class="form-control" required />
+                    <div class="invalid-feedback">
+                        @Html.ValidationMessageFor(model => model.Username)
+                    </div>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Password" class="form-label">Password</label>
+                    <input asp-for="Password" class="form-control" required />
+                    <div class="invalid-feedback">
+                        @Html.ValidationMessageFor(model => model.Password)
+                    </div>
+                </div>
+
+                <hr class="my-4">
+
+                <div class="d-grid gap-2">
+                    <button type="submit" class="btn btn-primary btn-block">Create</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="row justify-content-center mt-3">
+        <div class="col-md-6">
+            <a asp-action="Index" class="btn btn-secondary btn-block">Back to List</a>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
