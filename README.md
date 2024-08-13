@@ -4,6 +4,8 @@ Platform : ASP.NET ,MySQL
 Description : The Bank Management System is a web app built with ASP.NET for
 managing accounts, transactions, user registration, login, password changes, and
 data validation. It utilizes a MySQL database for data storage.
+
+
 Quiz Application 2024
 Platform : C++
 Description :The Quiz Application in C++ is a console-based program that tests
