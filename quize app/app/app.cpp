@@ -3,7 +3,6 @@ using namespace std;
 
 bool login();
 int playQuiz();
-
 int main(){
 
 	if(login()) {
@@ -49,20 +48,9 @@ bool login() {
     cin >> username;
     cout << "Please enter your password: ";
     cin >> password;
-    // Check if username and password are correct
-    // For simplicity, let's assume correct credentials are "admin" for both username and password
-
+ 
     cout << "Login successful!" << endl;
           return true;
-
-
-//    if(username == 'A' || 'a' && password == 'A' 'a' '@#$!%&*+/-') {
-//    	cout << "Login successful!" << endl;
-//        return true;
-//    } else {
-//        cout << "Invalid username or password." << endl;
-//        return false;
-//    }
 }
 int playQuiz(){
 	char c;
